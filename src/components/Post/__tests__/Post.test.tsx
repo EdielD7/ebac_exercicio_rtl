@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import Post from '.';
+import Post from '..';
 
 describe('Test <Post />', () => {
     it('Expect render correctly', () => {
